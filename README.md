@@ -14,7 +14,7 @@ O processo de cross-validation envolve dividir o conjunto de dados em subconjunt
 
 Nesta técnica, o conjunto de dados é dividido em k subconjuntos (ou folds), e o modelo é treinado k vezes, cada vez usando um dos folds como conjunto de teste e os restantes como conjunto de treinamento. Os resultados são então combinados para calcular uma métrica de desempenho média, como acurácia ou erro médio. A Figura a baixo ilustra visualmente o processo do K-Folds, quando K = 5.
 
-[Exemplo Visual de Como Funciona](Images/k-fold-example.png)
+![Exemplo Visual de Como Funciona](Images/k-fold-example.png)
 
 #### Valor de K
 
